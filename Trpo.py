@@ -39,25 +39,7 @@ def runtxt(z):
 
 
 
-def helpnote():
-	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/irfan7732/test/blob/main/a.txt"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/irfan.7732")
 
- 
-def notice():
-
- 
-
-	
-	
-	
-def irfan():
-	
-	
-	
-	
-	
 plist = (platform.uname())[2]
 basex = plist
 basex1 = basex.encode('ascii')
