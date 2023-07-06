@@ -44,16 +44,9 @@ def helpnote():
 	subprocess.check_output(["am", "start", "https://github.com/irfan7732/test/blob/main/a.txt"])
 	exit(" [*] FACEBOOK :  https://www.facebook.com/irfan.7732")
 
-
-def notice():
-
  
 
-	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
-	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰RR-RIYAD")
-	subprocess.check_output(["am", "start", "https://m.me/abubockor.riad.7"])
-
+	
 def irfan():
 	
 	
