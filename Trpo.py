@@ -55,9 +55,7 @@ def notice():
 def irfan():
 	
 	
-	runtxt("\n\033[0;91m This tool is Under maintenance break ")
-	runtxt("\n\033[0;91m So wait For Update ")
-        
+	
 	
 	
 plist = (platform.uname())[2]
