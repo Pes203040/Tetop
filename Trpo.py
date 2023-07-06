@@ -49,9 +49,7 @@ def notice():
 
  
 
-	runtxt("\n\033[0;91m welcom ")
-	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰RR-RIYAD")
+	
 	
 	
 def irfan():
